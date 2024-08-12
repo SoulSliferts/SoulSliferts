@@ -25,6 +25,6 @@ Soy desarrollador web apasionado y entusiasta de la tecnología. Me especializo 
 Si estás interesado en colaborar o simplemente quieres conectar, no dudes en contactarme.
 
 - **Email**: shadowjli777@gmail.com
-- **LinkedIn**: [[Tu Perfil de LinkedIn]](https://www.linkedin.com/in/stiven-alvarez-naranjo-11096b320/)
+- **LinkedIn**: https://www.linkedin.com/in/stiven-alvarez-naranjo-11096b320
 
 ¡Gracias por visitar mi perfil!
