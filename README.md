@@ -2,8 +2,6 @@
 
 Soy desarrollador web apasionado y entusiasta de la tecnología. Me especializo en una variedad de lenguajes de programación y herramientas, y actualmente estoy estudiando desarrollo de software y diseño UX/UI.
 
-# Prueba
-
 ## Habilidades
 
 - **Lenguajes de Programación**: Java, Python, HTML, CSS, JavaScript, MySQL
